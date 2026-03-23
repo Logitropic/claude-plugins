@@ -15,7 +15,7 @@
         "source": "url",
         "url": "https://github.com/Logitropic/conductor.git",
         "path": "plugins/conductor"
-      }
+      },
       "homepage": "https://github.com/Logitropic/conductor"
     }
   ]
