@@ -28,7 +28,7 @@ with this shape:
 
 - `.claude-plugin/plugin.json`
   - required plugin manifest
-  - defines plugin metadata and points Codex at the plugin contents
+  - defines plugin metadata and points Claude at the plugin contents
 
 - `agents/`
   - plugin-level agent metadata
