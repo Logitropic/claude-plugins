@@ -14,7 +14,7 @@ This is a **plugin marketplace registry** for Claude Code. It does not contain p
 
 Plugins listed here are sourced from external repositories:
 
-- **conductor** - https://github.com/Logitropic/conductor (path: `plugins/conductor`)
+- **conductor** - https://github.com/gemini-cli-extensions/conductor (plugin lives at the repository root)
 
 ## Marketplace Schema
 

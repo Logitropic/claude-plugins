@@ -15,13 +15,12 @@ A curated directory of plugins for Claude Code.
 
 ### Conductor
 
-**Category:** Development
+**Category:** Coding
 
-Conductor is a Claude Code plugin that allows you to specify, plan, and implement software features.
+Conductor is a set of modular AI agent skills for Claude Code that enables Spec-Driven Development to specify, plan, and implement software features.
 
-- **Source:** [logitropic/conductor](https://github.com/logitropic/conductor)
-- **Path:** `plugins/conductor`
-- **Homepage:** [https://github.com/logitropic/conductor](https://github.com/logitropic/conductor)
+- **Source:** [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) (external repository, plugin at repo root)
+- **Homepage:** [https://github.com/gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)
 
 ## Installation
 
