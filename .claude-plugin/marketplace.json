@@ -9,10 +9,13 @@
   "plugins": [
     {
       "name": "conductor",
-      "description": "Conductor is a Claude Code plugin that allows you to specify, plan, and implement software features.",
+      "description": "Conductor is a set of modular AI agent skills for Claude Code that enables Spec-Driven Development to specify, plan, and implement software features.",
       "category": "Coding",
-      "source": "./plugins/conductor",
-      "homepage": "https://github.com/logitropic/conductor"
+      "source": {
+        "source": "github",
+        "repo": "gemini-cli-extensions/conductor"
+      },
+      "homepage": "https://github.com/gemini-cli-extensions/conductor"
     },
     {
       "name": "build-ios-apps",
