@@ -86,6 +86,13 @@
       "category": "Design",
       "source": "./plugins/product-design",
       "homepage": "https://openai.com/"
+    },
+    {
+      "name": "openai-templates",
+      "description": "OpenAI default document, presentation, and spreadsheet templates.",
+      "category": "Productivity",
+      "source": "./plugins/openai-templates",
+      "homepage": "https://github.com/openai/oai-maintained-plugins/tree/main/plugins/openai-templates"
     }
   ]
 }
